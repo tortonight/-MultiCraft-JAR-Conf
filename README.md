@@ -21,7 +21,7 @@ Methods to start :
 | `Last`| 1.18 | 1.18.1 | 1.18.1 | 1.18.1 |
 | `First`| 1.4.7 | 1.4.7 | 1.12.2 | 1.13.2 |
 
-# ChangeLog (All the history [HERE](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/CHANGELOG.md) )
+# ChangeLog (All the history [HERE](https://github.com/) )
 
 -----
 ⚠️ MC 1.18 + Java change AGAIN (November-2021 Update)
