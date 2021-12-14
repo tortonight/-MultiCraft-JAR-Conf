@@ -15,11 +15,11 @@ Methods to start :
 🗓 Minecraft versions available
 -----
 
-| Versions | ✅ Vanilla | ✅ Spigot | 🔨 PaperSpigot |
-| :--------|:----------:|:---------:|:---------------:|
-| Edited by : |[Mojang](https://mojang.com)|[Spigot](https://spigotmc.org)|[PaperMC](https://papermc.io)| 
-| `Last`| 1.18 | 1.18.1 | 1.18.1 |
-| `First`| 1.4.7 | 1.4.7 | 1.12.2 |
+| Versions | ✅ Vanilla | ✅ Spigot | 🔨 PaperSpigot | 🔨 Craftbukkit |
+| :--------|:----------:|:---------:|:---------------:|:---------------:|
+| Edited by : |[Mojang](https://mojang.com)|[Spigot](https://getbukkit.org)|[PaperMC](https://papermc.io)|[BukkitMC](https://getbukkit.org)| 
+| `Last`| 1.18 | 1.18.1 | 1.18.1 | 1.18.1 |
+| `First`| 1.4.7 | 1.4.7 | 1.12.2 | 1.13.2 |
 
 # ChangeLog (All the history [HERE](https://github.com/ValentinTh/MultiCraft-JAR-Conf/blob/master/CHANGELOG.md) )
 
