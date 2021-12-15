@@ -1,5 +1,7 @@
 MultiCraft-JAR Conf
 =====
+MultiCraft Server
+=====
 This project has the goal to make some time gains to many of us.     
 Quickly find a multicraft configuration in the list of JAR profiles!     
 
