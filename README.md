@@ -7,15 +7,16 @@ You will find here, panel translations , serveur profiles (Vanilla, Spigot, Pape
 
 Methods to start :
 
-- [[HOW-TO] First Steps](https://github.com/)     
-- [[HOW-TO] Panel & languages (list & install)](https://github.com/)    
-- [[HOW-TO] Server profiles (list & install)](https://github.com/)   
+- [[HOW-TO] Installation Multicraft on Linux](https://www.multicraft.org/site/docs/install#1.1)     
+- [[HOW-TO] How To Install Java JDK on Debian 11](https://tecadmin.net/how-to-install-java-on-debian-11/)    
+- [[HOW-TO] How to Install and Configure Apache Web Server](https://vitux.com/debian-apache/) 
+- [[HOW-TO] How to Configure .jar.conf Files](https://www.multicraft.org/site/docs/conf)  
 
 -----
 🗓 Minecraft versions available
 -----
 
-| Versions | ✅ Vanilla | ✅ Spigot | 🔨 PaperSpigot | 🔨 Craftbukkit |
+| Versions | ✅ Vanilla | ✅ Spigot | 🔨 PaperSpigot | ☕️ Craftbukkit |
 | :--------|:----------:|:---------:|:---------------:|:---------------:|
 | Edited by : |[Mojang](https://mojang.com)|[Spigot](https://getbukkit.org)|[PaperMC](https://papermc.io)|[BukkitMC](https://getbukkit.org)| 
 | `Last`| 1.18.1 | 1.18.1 | 1.18.1 | 1.18.1 |
@@ -24,12 +25,13 @@ Methods to start :
 # ChangeLog (All the history [HERE](https://github.com/) )
 
 -----
-⚠️ MC 1.18 + Java change AGAIN (November-2021 Update)
+ MC 1.18 + Java change AGAIN (November-2021 Update)
 -----
 
-MC 1.17 > 1.17.1 > 1.18 are now using JAVA 17 (from Zulu since AdoptOpenJDK ceased activity and Adoptium is doing nothing to be user friendly)
+MC 1.18 > 1.18.1 > 1.18 are now using JAVA 17 (from Zulu since AdoptOpenJDK ceased activity and Adoptium is doing nothing to be user friendly)
 
-```/usr/lib/jvm/zulu17-ca-amd64/bin/java```
+[start]
+command = "{JAVA}" -Xmx{MAX_MEMORY}M -Xms{START_MEMORY}M -Djline.terminal=jline.UnsupportedTerminal -jar "{JAR}" nogui {PARAMS}
 
 Vanilla 1.18 is now available too.
 
@@ -47,9 +49,9 @@ Things will change a lot till the next release.
 Mojang decided to unilaterally move from JAVA 11 > JAVA 16 (yup a jump of 5 versions and the use of a no LTS, ...).     
 Since Vanilla 1.17, there is the need to use a new JVM so for now this repo isn't natively compatible with 1.17 (as the 8th of June).
 
-## NOT READY FOR Vanilla 1.17 " YET " !!!!
+## NOT READY FOR Vanilla 1.18 " YET " !!!!
 
-Temporary use of a JAVA NO LTS version : /usr/lib/jvm/adoptopenjdk-16-hotspot-jre-amd64/bin/java for the Vanilla 1.17 profile already available.
+Temporary use of a JAVA NO LTS version : "{JAVA}" for the Vanilla 1.18 profile already available.
 
 -----
 ⚠️⚠️⚠️ You find a bug? Want to contribute?
