@@ -9,10 +9,10 @@ You will find here, panel translations , serveur profiles (Vanilla, Spigot, Pape
 
 Methods to start :
 
-- [[HOW-TO] Installation Multicraft on Linux](https://www.multicraft.org/site/docs/install#1.1)     
-- [[HOW-TO] How To Install Java JDK on Debian 11](https://tecadmin.net/how-to-install-java-on-debian-11/)    
-- [[HOW-TO] How to Install and Configure Apache Web Server](https://vitux.com/debian-apache/) 
-- [[HOW-TO] How to Configure .jar.conf Files](https://www.multicraft.org/site/docs/conf)  
+- [HOW-TO] [Installation Multicraft on Linux](https://www.multicraft.org/site/docs/install#1.1)     
+- [HOW-TO] [Install Java JDK on Debian 11](https://tecadmin.net/how-to-install-java-on-debian-11/)    
+- [HOW-TO] [Install and Configure Apache Web Server](https://vitux.com/debian-apache/) 
+- [HOW-TO] [Configure .jar.conf Files](https://www.multicraft.org/site/docs/conf)  
 
 -----
 🗓 Minecraft versions available
