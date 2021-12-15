@@ -40,9 +40,7 @@ Vanilla 1.18 is now available too.
 -----
 Server Panel
 -----
-
-In order to prepare a new organization, it seemed important to create a milestone of the last 4 years evolutions.
-Things will change a lot till the next release.   
+[[HOW-TO] Multicraft Server Panel](https://www.torunit.net) 
 
 -----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
