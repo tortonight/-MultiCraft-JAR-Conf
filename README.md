@@ -40,7 +40,7 @@ Vanilla 1.18 is now available too.
 -----
 Server Panel
 -----
-[HOW-TO] [Multicraft Server Panel](https://www.torunit.net) 
+[SERVER PANEL] [Multicraft Server Panel](https://www.torunit.net) 
 
 -----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
