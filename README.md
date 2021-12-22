@@ -40,12 +40,12 @@ Vanilla 1.18 is now available too.
 -----
 Server Panel
 -----
-[SERVER PANEL] [Multicraft Server Panel](https://www.torunit.net) 
+[SERVER PANEL] [Multicraft Server Panel](https://tonightgamer.com) 
 
 ► Join The Server Survival
 - Server 1: tonightgamer.com  (PaperSpigot)
 - Server 2: mc1.tonightgamer.com  (Spigot)
-- Server 3: mc1.donald.gq  (Craftbukkit)
+- Server 3: mc.donald.gq  (Craftbukkit)
 
 -----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
