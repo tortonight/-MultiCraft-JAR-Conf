@@ -21,7 +21,7 @@ Methods to start :
 | Versions | ✅ Vanilla | ✅ Spigot | 🔨 PaperSpigot | ☕️ Craftbukkit |
 | :--------|:----------:|:---------:|:---------------:|:---------------:|
 | Edited by : |[Mojang](https://mojang.com)|[Spigot](https://getbukkit.org)|[PaperMC](https://papermc.io)|[BukkitMC](https://getbukkit.org)| 
-| `Last`| 1.18.1 | 1.18.1 | 1.18.1-(Build: 95) | 1.18.1 |
+| `Last`| 1.18.1 | 1.18.1 | 1.18.1-(Build:101) | 1.18.1 |
 | `First`| 1.17.1 | 1.17.1 | 1.17.1 | 1.17.1 |
 
 # ChangeLog (All the history [HERE](https://github.com/) )
