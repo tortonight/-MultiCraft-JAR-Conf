@@ -50,3 +50,15 @@ Server Panel
 -----
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
 © 2017 - 2021
+
+-----
+Server PaperSpigot
+-----
+| Versions | ✅ Build | ✅ Download |
+| :--------|:----------:|:---------:|
+| 1.19.2 | 189 | [here](https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/189/downloads/paper-1.19.2-189.jar) |
+| 1.19.1 | 111 | [here](https://api.papermc.io/v2/projects/paper/versions/1.19.1/builds/111/downloads/paper-1.19.1-111.jar) |
+| 1.19 | 81 | [here](https://api.papermc.io/v2/projects/paper/versions/1.19/builds/81/downloads/paper-1.19-81.jar) |
+| 1.18.2 | 379 | [here](https://api.papermc.io/v2/projects/paper/versions/1.18.2/builds/379/downloads/paper-1.18.2-379.jar) |
+| 1.18.1 | 216 | [here](https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/216/downloads/paper-1.18.1-216.jar) |
+| 1.18 | 66 | [here](https://papermc.io/api/v2/projects/paper/versions/1.18/builds/66/downloads/paper-1.18-66.jar) |
